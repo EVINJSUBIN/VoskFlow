@@ -1,0 +1,6 @@
+vosk
+pyaudio
+keyboard
+PyQt6
+numpy
+faster-whisper
